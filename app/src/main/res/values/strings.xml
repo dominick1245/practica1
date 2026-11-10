@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">practica1</string>
+    <string name="logo_desc">Logo UTEQ</string>
+    <string name="iniciar_sesion">INICIAR SESIÓN</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+</resources>
